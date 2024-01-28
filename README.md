@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @digitalrvi
+- 👋 Hi, I’m ravikiran gaikwad
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any intrusting project 
